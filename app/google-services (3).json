@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "48595669125",
+    "firebase_url": "https://backend-f03c8-default-rtdb.firebaseio.com",
     "project_id": "backend-f03c8",
     "storage_bucket": "backend-f03c8.firebasestorage.app"
   },
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDfy4TMaFO2HVDoxZ-msovzRcmfJ3pvX0I"
+          "current_key": "AIzaSyDbiZU2r81kEhY2AGZDqPePQkMNqawU9Lg"
         }
       ],
       "services": {
@@ -34,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDfy4TMaFO2HVDoxZ-msovzRcmfJ3pvX0I"
+          "current_key": "AIzaSyDbiZU2r81kEhY2AGZDqPePQkMNqawU9Lg"
         }
       ],
       "services": {
